@@ -32,12 +32,16 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="centre" alt="Abhinav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhinavg8&show_icons=true&hide_border=true&theme=radical" />
+<details open>
+    <summary>⚡ My GitHub Stats </summary>
+    <br>
+    <p align="center">
+        <img src="https://github-readme-stats.manakmishra.vercel.app/api?username=abhinavg8&show_icons=true&theme=radical&hide_border=true"/>
+    </p>
 </details>
+<!-- blank line -->
+
+---
 
 
-
-[linkedin] : https://www.linkedin.com/in/abhinav-gupta-0476371a0/
+[linkedin]: https://www.linkedin.com/in/abhinav-gupta-0476371a0/
