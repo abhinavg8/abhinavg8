@@ -1,18 +1,7 @@
-### Hi there 👋
+## Hi there 👋👋
 
 <!--
 **abhinavg8/abhinavg8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as Data Science Intern at ByteBlanket, Dubai.
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything :)
-- 📫 How to reach me: abhinavgupta26600@gmail.com
-- ⚡ Fun fact: I Learn and Procrastinate at the same time.
--->
 
 <br />
 
@@ -46,8 +35,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Abhinav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="Centre" alt="Abhinav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhinavg8&show_icons=true&hide_border=true" />
 
 </details>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=abhinavg8&show_icons=true)
