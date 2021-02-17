@@ -1,5 +1,5 @@
 # Hi there 👋👋
-
+---
 <br />
 
 ### About Me
@@ -11,7 +11,13 @@
 - ⚡ Fun fact: I Learn and Procrastinate at the same time.
 
 <br />
+---
+## Connect with me!
 
+[<img align="left" alt="Abhinav Gupta | LinkedIn" width="32px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+<br />
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />]
@@ -26,11 +32,11 @@
 
 <br />
 <br />
-
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="centre" alt="Abhinav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhinavg8&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
-
+[linkedin]: https://www.linkedin.com/in/abhinav-gupta-0476371a0/
