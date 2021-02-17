@@ -12,7 +12,7 @@
 
 ### Connect with me!
 
-[<img align="left" alt="Abhinav Gupta | LinkedIn" width="32px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
 ---
@@ -35,6 +35,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="centre" alt="Abhinav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhinavg8&show_icons=true&hide_border=true&theme=radical" />
-
 </details>
+
+
 [linkedin] : https://www.linkedin.com/in/abhinav-gupta-0476371a0/
