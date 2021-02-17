@@ -1,4 +1,4 @@
-## Hi there 👋👋
+# Hi there 👋👋
 
 <br />
 
@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="Centre" alt="Abhinav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhinavg8&show_icons=true&hide_border=true" />
+  <img align="centre" alt="Abhinav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhinavg8&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
