@@ -11,7 +11,7 @@
 ### About Me
 
 - 🔭 I’m currently working as Data Science Intern at ByteBlanket, Dubai.
-- 🌱 I’m currently learning everything.
+- 🌱 Learning and Living.
 - 💬 Ask me about anything :)
 - 📫 How to reach me: abhinavgupta26600@gmail.com
 - ⚡ Fun fact: I Learn and Procrastinate at the same time.
