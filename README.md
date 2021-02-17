@@ -1,16 +1,11 @@
 ## Hi there 👋👋
 
-<!--
-**abhinavg8/abhinavg8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <br />
 
 ### About Me
 
 - 🔭 I’m currently working as Data Science Intern at ByteBlanket, Dubai.
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything :)
 - 📫 How to reach me: abhinavgupta26600@gmail.com
 - ⚡ Fun fact: I Learn and Procrastinate at the same time.
@@ -19,7 +14,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />][cssplaylist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
