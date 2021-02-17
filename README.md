@@ -1,4 +1,5 @@
-# Hi there 👋👋
+<h1 align="center">Hello World, I'm Abhinav Gupta 👋👋</h1>
+
 ---
 
 ### About Me
@@ -40,7 +41,7 @@
     <summary>⚡ My GitHub Stats </summary>
     <br>
     <p align="center">
-        <img src="https://github-readme-stats.manakmishra.vercel.app/api?username=abhinavg8&show_icons=true&theme=radical&hide_border=true"/>
+        <img src="https://github-readme-stats.manakmishra.vercel.app/api?username=abhinavg8&show_icons=true&theme=tokyonight&hide_border=true"/>
     </p>
 </details>
 <!-- blank line -->
@@ -49,7 +50,7 @@
     <summary>⚡Languages Used </summary>
     <br>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavg8&theme=radical&&layout=compac"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavg8&theme=tokyonightl&&layout=compac"/>
     </p>
 </details>
 <!-- blank line -->
