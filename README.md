@@ -56,7 +56,7 @@
     <summary>⚡Languages Used </summary>
     <br>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavg8&theme=tokyonight&layout=compac"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavg8&theme=tokyonight&hide_border=true"/>
     </p>
 </details>
 <!-- blank line -->
