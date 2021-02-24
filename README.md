@@ -49,7 +49,7 @@
     <summary>⚡ My GitHub Stats </summary>
     <br>
     <p align="center">
-        <img src="https://github-readme-stats.manakmishra.vercel.app/api?username=abhinavg8&show_icons=true&theme=tokyonight&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=abhinavg8&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
     </p>
 </details>
 <!-- blank line -->
