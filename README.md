@@ -65,5 +65,4 @@
 
 ---
 
-
 [linkedin]: https://www.linkedin.com/in/abhinav-gupta-0476371a0/
