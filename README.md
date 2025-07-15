@@ -13,7 +13,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working as Data Science Intern at ByteBlanket, Dubai.
+- 🔭 I’m currently working as Senior Software Engineer at ZS Associates.
 - 🌱 Learning and Living.
 - 💬 Ask me about anything :)
 - 📫 How to reach me: abhinavgupta26600@gmail.com
