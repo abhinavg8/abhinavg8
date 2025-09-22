@@ -16,7 +16,7 @@
 - 🔭 I’m currently a Computer Science Masters student in Johns Hopkins University
 - 🌱 Learning and Living.
 - 💬 Ask me about anything :)
-- 📫 How to reach me: abhinavgupta26600@gmail.com
+- 📫 How to reach me: abhinavgupta26600@gmail.com / agupt153@jh.edu
 - ⚡ Fun fact: I Learn and Procrastinate at the same time.
 
 ---
