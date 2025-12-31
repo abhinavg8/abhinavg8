@@ -1,7 +1,5 @@
 <h1 align="center">      Hello World 👋👋</h1>
 
-<br />
-
 <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="250" align='right'>
 
 ---
