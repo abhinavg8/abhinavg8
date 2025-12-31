@@ -19,25 +19,7 @@
 - 📫 How to reach me: abhinavgupta26600@gmail.com / agupt153@jh.edu
 - ⚡ Fun fact: I Learn and Procrastinate at the same time.
 
----
 
-<details open>
-    <summary>⚡ My GitHub Stats </summary>
-    <br>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhinavg8&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-    </p>
-</details>
-<!-- blank line -->
-
-<details open>
-    <summary>⚡Languages Used </summary>
-    <br>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavg8&theme=tokyonight&hide_border=true&layout=compact"/>
-    </p>
-</details>
-<!-- blank line -->
 
 ---
 
