@@ -2,10 +2,6 @@
 
 <br />
 
-<!-- 
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> -->
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=abhinavg8 alt=abhinavg8/> </p> 
-
 <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="250" align='right'>
 
 ---
